@@ -1,4 +1,7 @@
 fastapi==0.85.0
+pickle-mixin==1.0.2
 numpy==1.23.3
 pydantic==1.10.2
 streamlit==1.13.0
+scikit-learn==1.0.1
+streamlit-option-menu==0.3.2
