@@ -1,0 +1,7 @@
+# Deploy ML model
+
+Machine learning models are only valuable if they can be used to make predictions or classifications on new data. Therefore, deploying a machine learning model is an essential step in the machine learning workflow. This repository provides a practical guide on how to save a machine learning model using Pickle, a Python library that allows the serialization and deserialization of Python objects, and deploy it using Streamlit, a popular web application framework.
+
+We'll start by exploring the basics of Pickle, including how to use it to save and load machine learning models. We'll then cover how to use Streamlit to create a user interface for the machine learning model. Streamlit is a powerful tool that allows developers to create interactive web applications quickly and easily. We'll use Streamlit to create a simple web application that allows users to input data and receive predictions from the saved machine learning model.
+
+By the end of this repository, you'll have a good understanding of how to save a machine learning model using Pickle and deploy it using Streamlit. You'll be able to use these techniques to create your own web applications that use machine learning models to make predictions or classifications on new data.
