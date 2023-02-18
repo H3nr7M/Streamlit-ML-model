@@ -1,3 +1,5 @@
+# In this file we will create a web app using streamlit and our trained model from 'trained_model.sav'
+
 import numpy as np
 import pickle
 import streamlit as st
@@ -35,3 +37,6 @@ def main():
     
 if __name__ == '__main__':
     main()
+
+# this file can be deployed on Streamlit https://streamlit.io/ 
+# I jope this easy tutorial will help you to understand how to deploy a machine learning model on web app using streamlit
